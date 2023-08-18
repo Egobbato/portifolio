@@ -24,7 +24,7 @@ color: #141414;
 display: block;
 }
 
-@media(max-widht:800px){
+@media(max-width:800px){
     .header{
         flex-direction: column;
         gap: 40px;
@@ -36,3 +36,4 @@ display: block;
         border-radius: 4px;
     }
 }
+
